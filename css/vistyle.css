@@ -1,0 +1,25 @@
+.viname {
+	color: #2E8B57;
+	
+}
+.vicontainer {
+	overflow-y: scroll;
+	opacity :.8;
+	height: 200px;
+}
+a.vip {
+	color :#000000;
+	text-decoration: none;
+}
+a.vip:hover{
+	color:#890000;
+	opacity : 3;
+	zoom:1.2;
+	
+}
+.viname:hover {
+	zoom:1.2;
+	color:#4F270B;
+	opacity : 1.6;
+	
+}
