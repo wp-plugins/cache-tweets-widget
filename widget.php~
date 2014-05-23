@@ -130,7 +130,7 @@ add_action( 'wp_enqueue_scripts', 'register_plugin_vistyles' );
 * Register style sheet.
 */
 function register_plugin_vistyles() {
-wp_register_style( 'vicache-tweets', plugins_url( 'cache-tweets-widget/css/vistyle.css' ) );
+wp_register_style( 'vicache-tweets', plugins_url( 'cache-tweets/css/vistyle.css' ) );
 wp_enqueue_style( 'vicache-tweets' );
 }
 ?>
