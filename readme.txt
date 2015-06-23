@@ -50,7 +50,7 @@ Make sure you provide the Application Credentials created with Twitter.
 
 == Frequently Asked Questions ==
 
-=
+
 Where to find the Consumer Key, Secret, Access Token and Secret? 
 
 	
