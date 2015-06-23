@@ -104,8 +104,15 @@ Added fetch users_timeline api request to get user tweets along with the search 
 == Screenshots ==
 
 
+
 1. screenshot-1.(png)
 	shows the screenshot of how the widget looks like once it is installed.
+
+
+
+2. screenshot-2.(png)
+	shows the screenshot of how the widget looks like before it is installed.
+
 
 
 == Upgrade Notice ==
