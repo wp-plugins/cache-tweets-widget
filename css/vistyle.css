@@ -13,12 +13,9 @@ a.vip {
 }
 a.vip:hover{
 	color:#890000;
-	opacity : 3;
-	zoom:1.2;
-	
+	opacity : 3;	
 }
 .viname:hover {
-	zoom:1.2;
 	color:#4F270B;
 	opacity : 1.6;
 	
